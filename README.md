@@ -13,7 +13,7 @@ Creative Computing is the combination of creative arts crossed with computing an
 Social media plays a massive part in our daily lives, it is so easy to get caught up in peoples virtual lives and how everyone represents themselves.
   
 Artificial intelligence and Extended reality also play a large role in the basics of what Creative Computing is.
-  These are various types of immersive learning technologies. These technologies interchange reality, making training more engaging and effective, this is done by adding a simulation of the real world through digital materils to create this **Extended Reality**.
+  These are various types of immersive learning technologies. These technologies interchange reality, making training more engaging and effective, this is done by adding a simulation of the real world through digital materials to create this **Extended Reality**.
   
 <h2>Physical Computing
 </h2>
