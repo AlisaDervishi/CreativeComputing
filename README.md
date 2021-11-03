@@ -1,7 +1,7 @@
 # Creative Computing
 
 ## What is Creative Computing?
-Creative Computing is the combination of creative arts crossed with computing and teachnology, it is a way to merge the two together producing a whole new world to computing and code altogether.
+Creative Computing is the combination of creative arts crossed with computing and technology, it is a way to merge the two together producing a whole new world to computing and code altogether.
 > Many different factors that go into creative computing include;
 > 
 >> 1. Technology
